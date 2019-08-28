@@ -1,0 +1,22 @@
+.AboutHeader {
+    text-align: center;
+    color: orange;
+
+}
+.container {
+    margin: 20px;
+    display: inline-block;
+    border: 3px solid black;
+    padding: 5px;
+}
+.leftimage {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.rightimage {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
